@@ -1,6 +1,6 @@
 # MarketSprint Acquisition — Financial Analysis Simulation  
 **Author:** Ana C. Carrasco  
-**Tools:** Python (Pandas, NumPy, Matplotlib), Jupyter Notebook, Financial Analysis, Scenario Modeling
+**Tools:** Python (Pandas, NumPy, Matplotlib), Jupyter Notebook, **VS Code**, Financial Analysis, Scenario Modeling
 
 ## 📌 Overview
 This project simulates the financial analysis of a potential acquisition involving *MarketSprint*, a mid-sized digital marketing company. The objective is to evaluate the company’s historical performance and assess post-acquisition financial viability under different growth and cost scenarios.
