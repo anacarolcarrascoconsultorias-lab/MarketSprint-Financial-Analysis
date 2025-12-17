@@ -1,5 +1,3 @@
-![MarketSprint Acquisition Banner](marketsprint_banner (2).png)
-
 # MarketSprint Acquisition — Financial Analysis Simulation  
 **Author:** Ana C. Carrasco  
 **Tools:** Python (Pandas, NumPy, Matplotlib), Jupyter Notebook, **VS Code**, Financial Analysis, Scenario Modeling
