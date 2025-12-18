@@ -83,3 +83,9 @@ The primary risk lies in post-acquisition operating expense control. With focuse
 
 ## 🚀 Key Takeaway
 This project demonstrates how financial analysis and scenario modeling can support strategic acquisition decisions by translating raw financial data into actionable business insights.
+
+---
+
+### ⬅️ Back to Portfolio  
+🔗 https://github.com/your-username/portfolio
+
